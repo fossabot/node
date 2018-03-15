@@ -21,6 +21,8 @@ policies, and releases are managed under an
 
 
 # Table of Contents
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwoundedlion%2Fnode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwoundedlion%2Fnode?ref=badge_shield)
+
 
 * [Support](#support)
 * [Release Types](#release-types)
@@ -612,3 +614,7 @@ Previous releases may also have been signed with one of the following GPG keys:
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
 [Strategic Initiatives]: https://github.com/nodejs/TSC/blob/master/Strategic-Initiatives.md
 [#node.js channel on chat.freenode.net]: https://webchat.freenode.net?channels=node.js&uio=d4
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwoundedlion%2Fnode.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwoundedlion%2Fnode?ref=badge_large)
